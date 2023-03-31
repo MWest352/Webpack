@@ -1,1 +1,2 @@
 # WebpackTemplate
+This is the beginning of a webpack template.  I'm sure more will be added as time goes on and I need more from webpack, but currently for where I'm at in The Odin Project, I believe this will suffice.
